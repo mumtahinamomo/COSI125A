@@ -1,4 +1,4 @@
-# Needfinding Report: Comprehensive Fitness App Design
+# Needfinding Report: Fitness App Design
 
 ## Motivation and Problem Selection
 
